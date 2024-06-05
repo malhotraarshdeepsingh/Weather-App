@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+
+.title{
+    padding-top: 2rem ;
+    padding-bottom: 2rem ;
+}
+
+.row{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
