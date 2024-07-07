@@ -1,3 +1,6 @@
+[Preview](./Preview.jpeg)
+[Error](./Error.PNG)
+
 # Weather-App
 
 Welcome to my weather app repository!
